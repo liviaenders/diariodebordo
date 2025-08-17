@@ -1,3 +1,8 @@
-footer { 
-    text-align: center;
+.bg-londres {
+    background-color: #012169 !important;
+}
+
+.card-img-custom {
+    height: 220px;
+    object-fit: cover;
 }
